@@ -23,11 +23,11 @@ const config: AppConfiguration = {
             help_links: [
                 {
                     text: "GitHub Repository",
-                    url: "https://github.com/center-for-threat-informed-defense/cti-blueprints"
+                    url: "https://github.com/cti8/cti-blueprints"
                 },
                 {
                     text: "Change Log",
-                    url: "https://github.com/center-for-threat-informed-defense/cti-blueprints/blob/main/src/cti_authoring_tool/CHANGELOG.md"
+                    url: "https://github.com/cti8/cti-blueprints/blob/main/src/cti_authoring_tool/CHANGELOG.md"
                 }
             ]
         }

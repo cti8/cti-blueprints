@@ -50,7 +50,7 @@ jobs:
     - name: Setup Pages
       uses: actions/configure-pages@v2
     - name: Download HTML docs
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: cti_authoring_tool
         path: cti_authoring_tool

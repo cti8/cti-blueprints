@@ -55,7 +55,7 @@ jobs:
         name: cti_authoring_tool
         path: cti_authoring_tool
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./cti_authoring_tool
     - name: Deploy to GitHub Pages
